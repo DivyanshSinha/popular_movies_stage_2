@@ -5,11 +5,11 @@ This app improves the functionality of the app built in Stage 1.
 
 ## In the movie details view:
 
-Users are able to view and play trailers.
-Users are able to read reviews of a selected movie.
-Users are able to mark a movie as a favorite. This is for a local movies collection stored on the phone.
-There is an additional pivot in the right hand corner menu that allows users to see all the "Favorite" movies.
-This application utilizes the Room persistence library with LiveData for the "Favorite" movies.
+1) Users are able to view and play trailers.
+2) Users are able to read reviews of a selected movie.
+3) Users are able to mark a movie as a favorite. This is for a local movies collection stored on the phone.
+4) There is an additional pivot in the right hand corner menu that allows users to see all the "Favorite" movies.
+5) This application utilizes the Room persistence library with LiveData for the "Favorite" movies.
 
 ## Running the app
 This app utilizes the Movie Database API. 
